@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+background-image: url(./image.jpeg);
+height: 500px;
+}
+.left{
+display: inline;
+position: absolute;
+top: 20px;
+left: 20px;
+}
+.mid{
+display: block;
+position: relative;
+width: 500px;
+ margin: 0 auto;
+ top: 20px;
+}
+.right{
+display: inline;
+right: 32px;
+top: 5px;
+position: absolute;
+top: 20px;
+}
